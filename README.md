@@ -8,6 +8,11 @@ ToDo-Liste
 - Man sollte die Tasks abhaken können
 - mann sollte sie löschen können
 - Man sollte sie speichern können
+- Nach Alphabet ordnen nach deadline
+- suchfeld
+- Bereits gemachte tasks archivieren
+- noch zuerledigende tasks
+- 
 
 
 - wenn wir uns es zutrauen Login und verschiedene User
