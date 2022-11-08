@@ -1,4 +1,6 @@
-# MyWebtech-projekt
+#[![CI](https://github.com/KurtogluSinem/MyWebtech-projekt/actions/workflows/tests.yml/badge.svg)](https://github.com/KurtogluSinem/MyWebtech-projekt/actions/workflows/tests.yml)
+
+#MyWebtech-projekt
 
 http://localhost:8080/greeting
 
